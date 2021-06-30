@@ -1,0 +1,42 @@
+body{
+    background-color: lightcoral;
+    color: rgb(0, 0, 0);
+    
+}
+#predict_lab
+{
+    background-color: white;
+    font-size: 14px;
+    padding: 6px;
+    border-radius: 10px;
+   
+  
+}
+#heading{
+    font-size: 30px;
+    font-family: 'Sansita', sans-serif;
+}
+#btn_capture
+{
+    background-color: rgb(194, 20, 20);
+    
+}
+#p1
+{
+    font-family: 'Oswald', sans-serif;
+    
+}
+#p2
+{
+    font-family: 'Oswald', sans-serif;
+}
+#webcam_camera , #result_camera
+{
+ box-shadow: 5px 1px 38px rgba(255, 251, 0, 0.959);
+width: 350px;
+height: 250px; 
+border:2px solid rgb(7, 7, 7);
+
+
+ 
+}
